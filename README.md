@@ -155,3 +155,12 @@ Antonia Colins, cluttered-workspace-image.png, balancethroughsimplicity.com, acc
 
 Disclaimer:
 All external media files used in this project fall under the "Fair use" rule and are only used in a limited non-profit capacity, these external media files will not be used for the purposes of commercial gain
+
+Project Screenshots:
+![better-space-finished-code](https://github.com/user-attachments/assets/d924788f-a955-44cc-a873-deae6657fc62)
+
+![better-space-index html](https://github.com/user-attachments/assets/2cfe7698-7f5c-437d-ab09-6b28f2b281dc)
+
+![better-space-research html](https://github.com/user-attachments/assets/f507e8e5-3444-46f4-b2af-6efb8a2281ee)
+
+![better-space-designs html](https://github.com/user-attachments/assets/cd80523d-56e8-4775-9339-d5ff274b86eb)
