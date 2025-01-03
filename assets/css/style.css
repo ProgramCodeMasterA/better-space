@@ -37,7 +37,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    height: 15%;
+    height: 115px;
 }
 
 nav {
