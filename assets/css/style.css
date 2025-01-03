@@ -59,15 +59,15 @@ nav a {
 }
 
 h1 {
-    width: 500px;
+    width: 600px;
 }
 
 h1,
 h2,
 h3,
 h4 {
-    padding-top: 20px;
-    padding-bottom: 15px;
+    padding-top: 25x;
+    padding-bottom: 5px;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -97,6 +97,7 @@ form {
     width: 60%;
     border-style: outset;
     padding: 10px;
+    background-color: #ffffff;
 }
 
 form h3,
@@ -107,6 +108,7 @@ form h4 {
 
 .introduction {
     margin-top: 75px;
+    margin-bottom: 10px;
     background-color: #12EE66;
 }
 
@@ -116,6 +118,10 @@ form h4 {
 
 .numbered-areas {
     padding: 15px;
+}
+
+.image-gallery-figure {
+    margin: 20px;
 }
 
 .prev-research {
@@ -131,7 +137,7 @@ form h4 {
 }
 
 .user-form {
-    background-color: #EEAB16;
+    background-color: #F1B93B;
 }
 
 .design-images-gallery-container {
