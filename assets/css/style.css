@@ -93,6 +93,18 @@ li {
     font-size: 100%;
 }
 
+form {
+    width: 60%;
+    border-style: outset;
+    padding: 10px;
+}
+
+form h3,
+form h4 {
+    margin-top: 25px;
+    width: 50%;
+}
+
 .introduction {
     margin-top: 75px;
     background-color: #12EE66;
@@ -116,6 +128,10 @@ li {
     float: center;
     padding: 30px;
     font-size: 18px;
+}
+
+.user-form {
+    background-color: #EEAB16;
 }
 
 .design-images-gallery-container {
