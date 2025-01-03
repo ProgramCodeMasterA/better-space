@@ -17,3 +17,133 @@ body {
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
 }
+
+main {
+    margin: 10px;
+    flex: 1 0 auto;
+    font-size: 100%;
+    letter-spacing: 2px;
+
+}
+
+/* Header */
+header {
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    height: 14%;
+}
+
+nav {
+    font-size: 120%;
+    letter-spacing: 2px;
+    margin: 15px;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    padding-top: 5px;
+    display: block;
+    top: 100%;
+}
+
+nav a {
+    margin-right: 10px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
+h4 {
+    margin-top: 15px;
+}
+
+article {
+    padding-top: 20px;
+}
+
+/* Footer */
+footer {
+    margin-top: 5px;
+    padding: 15px;
+}
+
+li {
+    margin: 2px;
+    font-size: 100%;
+}
+
+.introduction {
+    margin-top: 75px;
+    background-color: #12EE66;
+}
+
+.numbered-areas {
+    padding: 15px;
+}
+
+.prev-research {
+    padding: 20px;
+}
+
+.prev-research>a {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    float: center;
+    padding: 30px;
+    font-size: 18px;
+}
+
+.design-images-gallery-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flex-item-left {
+    flex: 50%;
+}
+
+.flex-item-middle {
+    flex: 50%;
+}
+
+.flex-item-right {
+    flex: 50%;
+}
+
+@media (max-width: 800px) {
+
+    .flex-item-right,
+    .flex-item-left,
+    .flex-item-middle {
+        flex: 100%;
+    }
+}
+
+.living-room-designs {
+    width: 600px;
+}
+
+.image-explanation {
+    padding: 20px;
+}
+
+.image-gallery-container {
+    padding: 20px;
+}
