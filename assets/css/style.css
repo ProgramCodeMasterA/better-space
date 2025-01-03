@@ -118,6 +118,7 @@ form h4 {
 
 .numbered-areas {
     padding: 15px;
+    background-color: #EB9BEF;
 }
 
 .image-gallery-figure {
@@ -173,8 +174,14 @@ form h4 {
 
 .image-explanation {
     padding: 20px;
+    background-color: #65C2F5;
 }
 
 .image-gallery-container {
     padding: 20px;
+}
+
+#clutter-depression-anxiety-video {
+    margin: 10px;
+    margin-bottom: 50px;
 }
