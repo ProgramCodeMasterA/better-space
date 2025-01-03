@@ -129,3 +129,29 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+---
+
+External Media Refernces:
+Nourishing Minimalism, The Clutter-Depression Anxiety Cycle: How to Stop It, YouTube video, published by Rachel Jones 25 June 2021, duration 00:10:40, accessed 04 December 2024, Available at: https://www.youtube.com/watch?v=Ghq8O6Mk-iM 
+
+Adegbuyi Fadeke, kitchen-layout-example-image.png, todoist.com, accessed 04 December 2024, https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2240/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2024%2F04%2Forganize-home_graphic_5.png
+
+Adegbuyi Fadeke, living-room-layout-example-image.png, todoist.com, accessed 04 December 2024, https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2240/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2024%2F04%2Forganize-home_graphic_4.png
+
+Adegbuyi Fadeke, bedroom-layout-example-image.png, todoist.com, accessed 04 December 2024, https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2240/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2024%2F04%2Forganize-home_graphic_3.png
+
+ScS, small-living-room-design-image.png, insideconveyancing.co.uk, accessed 03 December 2024, https://insideconveyancing.co.uk/wp-content/uploads/2021/10/ScS-211025-1.png
+
+ScS, large-living-room-design-image.png, insideconveyancing.co.uk, accessed 03 December 2024, https://insideconveyancing.co.uk/wp-content/uploads/2021/10/ScS-211025-2.png
+
+ScS, open-plan-living-room-design-image.png, insideconveyancing.co.uk, accessed 03 December 2024, https://insideconveyancing.co.uk/wp-content/uploads/2021/10/ScS-211025-3.png
+
+Chiana Dickson, organised-interior-image.png, homesandgardens.com, accessed 05 December 2024, https://cdn.mos.cms.futurecdn.net/BKYkaPkH6JFygKpjHdM9t9-1280-80.jpg.webp
+
+Chrissey, clutter-free-importance-stats-image.png, clutter-free-importance-stats-image.png, accessed 12 Decemebr 2024, https://organisemyhouse.com/wp-content/uploads/2021/03/STAT-32-clutter-free-important.jpg
+
+Antonia Colins, cluttered-workspace-image.png, balancethroughsimplicity.com, accessed 04 December 2024, https://balancethroughsimplicity.com/wp-content/uploads/2024/07/Negative-Effects-of-Clutter-728x546.jpg
+
+Disclaimer:
+All external media files used in this project fall under the "Fair use" rule and are only used in a limited non-profit capacity, these external media files will not be used for the purposes of commercial gain
