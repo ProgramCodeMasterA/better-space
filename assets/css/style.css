@@ -80,11 +80,41 @@ h4 {
 }
 
 p {
+    display: flex;
     font-weight: 800;
 }
 
 article {
     padding-top: 20px;
+}
+
+figure {
+    margin-left: 5px;
+    width: 250px;
+}
+
+.image-gallery-container {
+    /*
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    content: "";
+    clear: both;
+    */
+    display: flex;
+}
+
+/*
+.image-gallery-container figure {
+    margin-top: 5px;
+    flex: 33.33%;
+    padding: 5px;
+    width: 40px;
+}
+*/
+
+.description {
+    margin-top: 400px;
 }
 
 /* Footer */
@@ -119,7 +149,7 @@ form h4 {
 }
 
 .negative-effects {
-    background-color: #FF2D2D;
+    background-color: #FF4F4F;
 }
 
 .numbered-areas {
