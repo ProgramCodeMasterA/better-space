@@ -3,7 +3,6 @@
 ## Description
 This is the Better Space project, a website with the purpose of educating people about the benefits of having a tidy and unclattered space in their home so they are not afflicted with any of the potential negative effects of having a cluttered home and/or personal space. This site gives the user an detailed overview of the effects of having clutter in your home and provides both examples on how a home can be organised as well as providing a Home Designs form that the user can fill out and submit.
 
-
 ## Features
 
 ### Home Page
