@@ -20,6 +20,7 @@ body {
     flex: 0 1 auto;
     flex-wrap: wrap;
     font-weight: 800;
+    font-size: 110%;
 }
 
 /* Header */
@@ -210,7 +211,7 @@ form h4 {
 }
 
 .image-explanation {
-    padding: 20px;
+    padding: 2ch;
     background-color: #65C2F5;
 }
 
