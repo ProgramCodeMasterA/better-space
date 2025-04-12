@@ -88,6 +88,7 @@ h4 {
 p {
     display: flex;
     font-weight: 800;
+    padding: 1vh;
 }
 
 article {
@@ -193,6 +194,7 @@ form h4 {
     flex-wrap: wrap;
 }
 
+/*
 .flex-item-left {
     flex: 50%;
 }
@@ -204,6 +206,15 @@ form h4 {
 .flex-item-right {
     flex: 50%;
 }
+*/
+
+.flex-item-left,
+.flex-item-middle,
+.flex-item-right {
+    flex: 50%;
+}
+
+
 
 .living-room-designs {
     width: 100%;
