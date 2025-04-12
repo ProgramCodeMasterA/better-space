@@ -87,6 +87,7 @@ h4 {
     margin-top: 15px;
 }
 
+/* text and article padding */
 p {
     display: flex;
     font-weight: 800;
@@ -98,6 +99,7 @@ article {
     padding-left: 2vh;
 }
 
+/* Figure width and height */
 figure {
     margin: 1vw;
     width: 100%;
@@ -146,8 +148,9 @@ form h4 {
     background-color: #FF9405;
 }
 
+/* Footer image numbered areas oordered list */
 .numbered-areas {
-    padding: 15px;
+    padding: 2rem;
     background-color: #EB9BEF;
 }
 
@@ -176,6 +179,7 @@ form h4 {
     height: 15%;
 }
 
+/* User form margins */
 #fname,
 #email,
 #area,
@@ -195,6 +199,7 @@ textarea {
     margin: 1vh;
 }
 
+/* User form submit button*/
 #submit {
     width: 25%;
     font-size: 100%;
@@ -207,6 +212,7 @@ textarea {
     flex-wrap: wrap;
 }
 
+/* Groups of three images held together with flex */
 .flex-item-left,
 .flex-item-middle,
 .flex-item-right {
@@ -219,9 +225,10 @@ textarea {
 }
 
 .image-gallery-container {
-    padding: 20px;
+    padding: 20vh;
 }
 
+/* Clutter anxiety video */
 #clutter-depression-anxiety-video {
     margin-bottom: 5vh;
     background-color: #C15BEF;
@@ -231,6 +238,7 @@ textarea {
     margin: 2vw;
 }
 
+/* CSS for devices with a max width of 640px*/
 @media screen and (max-width: 640px) {
     .prev-research>a {
         padding: 1vw;
@@ -242,6 +250,7 @@ textarea {
     }
 }
 
+/* CSS for devices with a max width of 375px*/
 @media screen and (max-width: 495px) {
 
     body {
