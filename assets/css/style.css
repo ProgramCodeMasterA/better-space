@@ -70,7 +70,7 @@ h2,
 h3,
 h4 {
     padding: 1ch;
-    padding-bottom: 5px;
+    padding-bottom: 2vh;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -115,12 +115,17 @@ figure {
 footer {
     padding: 2vw;
     display: block;
+    margin-bottom: 5vh;
 }
 
 li {
     margin: 15px;
     font-size: 100%;
     font-weight: 800;
+}
+
+.footer-link {
+    padding: 1rem;
 }
 
 form {
@@ -157,7 +162,7 @@ form h4 {
 .image-gallery-figure {
     width: 50%;
     display: flex;
-    padding: 2vw;
+    padding-bottom: 2vh;
 }
 
 .prev-research {
