@@ -241,7 +241,22 @@ textarea {
     margin: 2vw;
 }
 
+@media screen and (max-width: 640px) {
+    .prev-research>a {
+        padding: 1vw;
+        display: flex;
+    }
+
+    iframe {
+        width: 360px;
+    }
+}
+
 @media screen and (max-width: 495px) {
+
+    body {
+        font-size: 80%;
+    }
 
     header {
         height: 20%;
