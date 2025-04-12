@@ -113,10 +113,10 @@ This site can also be cloned to make a local copy that can be launched via VS Co
 - Content for the site was created from the information available at the organisemyhouse website blog, link to this site can be found here: https://organisemyhouse.com/the-blog/
 
 ### Media
-- __The Designs page user form__
+#### The Designs page user form
 - The YouTube video used for this project was taken from Nourishing Minimalism channel under the 'Fair Use' policy, link to the original video can be found here: https://www.youtube.com/watch?v=Ghq8O6Mk-iM
 
-- __Images used in thi site__
+#### Images used in this site
 - All images used for this project were taken from freely available sites under the 'Fair Use' policy, links to each site can be found here:
 - clutter-free-importance-stats-image, link can be found here: https://organisemyhouse.com/clutter-statistics/
 - cluttered-workspace-image, link can be found here: https://balancethroughsimplicity.com/research-into-the-psychological-effects-of-minimalism-and-decluttering/
