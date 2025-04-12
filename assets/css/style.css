@@ -105,17 +105,6 @@ figure {
     object-fit: contain;
 }
 
-.image-gallery-container {
-    /*
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-    content: "";
-    clear: both;
-    */
-    display: flex;
-}
-
 .description {
     margin-top: 5vh;
 }
@@ -154,7 +143,7 @@ form h4 {
 }
 
 .negative-effects {
-    background-color: #FF4F4F;
+    background-color: #FF9405;
 }
 
 .numbered-areas {
@@ -163,8 +152,9 @@ form h4 {
 }
 
 .image-gallery-figure {
-    margin: auto;
-    width: 100%;
+    width: 50%;
+    display: flex;
+    padding: 2vw;
 }
 
 .prev-research {
@@ -260,6 +250,10 @@ textarea {
 
     header {
         height: 20%;
+    }
+
+    nav a {
+        margin-left: 12vw;
     }
 
     .prev-research>a {
