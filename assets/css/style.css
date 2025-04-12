@@ -57,7 +57,7 @@ nav a {
 /* Main content */
 main {
     padding: 1vw;
-    margin-top: 10vh;
+    margin-top: 15vh;
     flex: 1 0 auto;
     font-size: 100%;
     letter-spacing: 2px;
@@ -177,14 +177,38 @@ form h4 {
     padding: 2vw;
 }
 
+.space-optimization {
+    margin-bottom: 10vh;
+}
+
 .user-form {
     background-color: #6DD4D9;
+    height: 15%;
 }
 
 #fname,
 #email,
-#area {
+#area,
+#sofa,
+#armchair,
+#units,
+#table,
+#submit {
     margin: 1vh;
+}
+
+textarea {
+    max-width: 50%;
+    max-height: 10%;
+    resize: none;
+    padding: 1rem;
+    margin: 1vh;
+}
+
+#submit {
+    width: 25%;
+    font-size: 100%;
+    padding: 1rem;
 }
 
 .design-images-gallery-container {
@@ -231,5 +255,27 @@ form h4 {
     .flex-item-left,
     .flex-item-middle {
         flex: 100%;
+    }
+
+    form {
+        margin: 1%;
+        width: 100%;
+        padding: 5vh;
+        font-size: 70%;
+    }
+
+    #fname,
+    #email,
+    #area,
+    #sofa,
+    #armchair,
+    #units,
+    #table,
+    #submit {
+        margin: 1%;
+    }
+
+    #submit {
+        font-size: 80%;
     }
 }
