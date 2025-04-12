@@ -64,21 +64,22 @@ main {
 }
 
 /* Headings */
-h1 {
-    margin-top: 3vh;
-    width: 100%;
-}
-
 h1,
 h2,
 h3,
 h4 {
-    padding-top: 25x;
+    padding: 1ch;
     padding-bottom: 5px;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #252525;
+}
+
+h1 {
+    margin-top: 3vh;
+    padding: 0;
+    width: 100%;
 }
 
 h4 {
@@ -175,7 +176,7 @@ form h4 {
 }
 
 .prev-research {
-    padding: 20px;
+    padding: 4ch;
 }
 
 .prev-research>a {
@@ -206,10 +207,6 @@ form h4 {
 .flex-item-middle,
 .flex-item-right {
     flex: 50%;
-}
-
-.living-room-designs {
-    width: 100%;
 }
 
 .image-explanation {
