@@ -25,16 +25,33 @@ This is the Better Space project, a website with the purpose of educating people
 - Intorduction text about how being tidy can lower stress and save you time
 - Simple and compact design give greater usability, and readability
 
+- __The Home page image container__
+
+  - Three images showing the difference between cluttered and tidy spaces and the stats on how many individuals report they prefer having a tidy space. 
+ 
+![image](https://github.com/user-attachments/assets/9e48f1b1-4e13-47d6-b699-9a70d20454e3)
+
+- __The Research page image container__
+
+  - A YouTube video detailing the clutter depression anxiety cycle and the negative effects of excess clutter.
+ 
+![image](https://github.com/user-attachments/assets/79c49738-d94c-4d16-880b-842815b48e78)
+ 
+- __The Research page external video__
+
+  - Three images showing the difference between three different designs based on the size of your personal living space.
+ 
+![image](https://github.com/user-attachments/assets/eec4b9d2-eee5-49a3-88b8-f2c830dba7bf)
+
+- __The Designs page user form__
+
+  - A form the user can fill out and submit based on the area of the users living room.
+ 
+![image](https://github.com/user-attachments/assets/d04a8b62-39d5-40b0-b40f-cce61e8cea30)
+
 #### Footer section
 - Image of numbered areas for where to store a person's specified items
 - Bright color scheme highlights individual sections within the site
-
-- __The Home page image container__
-
-  - Three images sshowing the difference between cluttered and tidy spaces and the stats on how many individuals report they prefer having a tidy space. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
- 
-![image](https://github.com/user-attachments/assets/9e48f1b1-4e13-47d6-b699-9a70d20454e3)
 
 ## Technologies Used
 - HTML was used as the foundation coding of this site
@@ -73,34 +90,43 @@ This is the Better Space project, a website with the purpose of educating people
 ![image](https://github.com/user-attachments/assets/330ba6ad-9a57-41d8-9066-da3a2c7c71d2)
 
 ## Deployment
-###Deployment from GitHub Pages
+### Deployment from GitHub Pages
 This site was deployed to GitHub pages, the steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Main Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 - The live link can be found here: https://programcodemastera.github.io/better-space/
 
-###Deployment from VS Code
+### Deployment from VS Code
 This site can also be cloned to make a local copy that can be launched via VS Code Command Line Terminal, the steps are as follows:
 - Navigate to your PC Documents > vscode-projects
 - Right click in the current project folder and selecet Open Terminal while in vscode-projects
-- Type in and Enter: git clone https://github.com/ProgramCodeMasterA/better=space.git
-- Type in and Enter: cd top-quiz
-    - now you have navigated to the clone project folder named after the project official name: top-quiz
+- Type in and Enter: git clone https://github.com/ProgramCodeMasterA/better-space.git
+- Type in and Enter: cd better-space
+    - now you have navigated to the clone project folder named after the project official name: better-space
 - Type in and Enter: code .
-  - this launches the IDE VS Code for the top-quiz project clone that is now stored locally on your PC
+  - this launches the IDE VS Code for the better-space project clone that is now stored locally on your PC
 
 ## Credits
 ### Content
-- Inspiration for the site design oriniated from w3schools, HTML tutorial link can be found here: https://www.w3schools.com/html/default.asp
-- Inspiration for the site font including size, spacing and text-family originated from codeinstitute, YouTube channel can be found here: https://www.youtube.com/@CodeinstituteNet
-- Content for the site ????>
+- Inspiration for the site design oriniated from w3schools, HTML tutorial link to this site can be found here: https://www.w3schools.com/html/default.asp
+- Inspiration for the site design oriniated from w3schools, CSS tutorial link to this site can be found here: https://www.w3schools.com/css/css_margin.asp
+- Content for the site was created from the information available at the organisemyhouse website blog, link to this site can be found here: https://organisemyhouse.com/the-blog/
 
 ### Media
-- All images used for this project were taken from barnonegames site under the 'Fair Use' policy, link to site can be found here: ????>
-- ????>
+- __The Designs page user form__
+- The YouTube video used for this project was taken from Nourishing Minimalism channel under the 'Fair Use' policy, link to the original video can be found here: https://www.youtube.com/watch?v=Ghq8O6Mk-iM
 
+- __Images used in thi site__
+- All images used for this project were taken from freely available sites under the 'Fair Use' policy, links to each site can be found here:
+- clutter-free-importance-stats-image, link can be found here: https://organisemyhouse.com/clutter-statistics/
+- cluttered-workspace-image, link can be found here: https://balancethroughsimplicity.com/research-into-the-psychological-effects-of-minimalism-and-decluttering/
+- bedroom-layout-example-image, link can be found here: https://www.todoist.com/inspiration/organize-your-home
+- kitchen-layout-example-image, link can be found here: https://www.todoist.com/inspiration/organize-your-home
+- living-room-layout-example-image, link can be found here: https://www.todoist.com/inspiration/organize-your-home
+- small-living-room-design-image, link can be found here: https://insideconveyancing.co.uk/news/expert-living-room-layout-ideas-to-make-the-most-of-your-small-spaces/
+- large-living-room-design-image, link can be found here: https://insideconveyancing.co.uk/news/expert-living-room-layout-ideas-to-make-the-most-of-your-small-spaces/
+- open-plan-living-room-design-image, link can be found here: https://insideconveyancing.co.uk/news/expert-living-room-layout-ideas-to-make-the-most-of-your-small-spaces/
 
 ## Acknowledgements
-- ?????>
 - Code Institute tutors, provided learning material, Student Care team and Slack community members for their advice, recommendations, support and help
