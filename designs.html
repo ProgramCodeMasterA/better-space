@@ -58,7 +58,8 @@
                 design of your living space sent to your email.
             </article>
 
-            <form>
+
+            <form action="https://formdump.codeinstitute.net" method="POST">
                 <label for="fname">First name:</label><br>
                 <input type="text" id="fname" name="fname"><br>
                 <label for="email">Email address:</label><br>
@@ -77,9 +78,9 @@
                 <input type="checkbox" id="table" name="table" value="Table">
                 <label for="table"> I have 1 or more dining tables in my living room</label>
 
-                <h4>Enter how many of each type of furniture you have in your living room and their total area in
-                    square meters</h4>
-                <textarea name="furniture" style="width:400px; height:200px;">
+                <h4>Enter how many of each type of furniture you have in your living room</h4>
+                <textarea name="furniture" placeholder="Please enter the total area in square meters" row="10"
+                    cols="50">
                 </textarea><br>
                 <input type="submit">
             </form>
