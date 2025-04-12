@@ -52,11 +52,12 @@ nav a {
 
 /* Main content */
 main {
-    margin: 10px;
+    margin: 1vw;
+    margin-top: 5vh;
     flex: 1 0 auto;
     font-size: 100%;
     letter-spacing: 2px;
-
+    width: 100%;
 }
 
 /* Headings */
@@ -88,6 +89,7 @@ p {
 
 article {
     padding-top: 20px;
+    font-weight: 800;
 }
 
 figure {
