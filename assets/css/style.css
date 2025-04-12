@@ -95,6 +95,7 @@ p {
 
 article {
     padding-top: 2vh;
+    padding-left: 2vh;
 }
 
 figure {
@@ -103,7 +104,6 @@ figure {
     height: auto;
     object-fit: contain;
 }
-
 
 .image-gallery-container {
     /*
@@ -115,15 +115,6 @@ figure {
     */
     display: flex;
 }
-
-/*
-.image-gallery-container figure {
-    margin-top: 5px;
-    flex: 33.33%;
-    padding: 5px;
-    width: 40px;
-}
-*/
 
 .description {
     margin-top: 5vh;
@@ -220,9 +211,9 @@ form h4 {
 }
 
 #clutter-depression-anxiety-video {
-    margin: 10px;
-    margin-bottom: 50px;
-    background-color: #7B71F7;
+    margin: 1vw;
+    margin-bottom: 5vh;
+    background-color: #C15BEF;
 }
 
 @media screen and (max-width: 375px) {
